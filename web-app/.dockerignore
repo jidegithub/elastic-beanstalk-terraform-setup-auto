@@ -1,0 +1,8 @@
+/node_modules
+node_modules
+build
+.nuxt
+nuxt
+.dockerignore
+npm-debug*
+.nuxt

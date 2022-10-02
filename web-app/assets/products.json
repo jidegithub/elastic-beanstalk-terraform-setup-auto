@@ -1,0 +1,54 @@
+[
+  {
+    "id": 566332,
+    "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "imageAlt": "Rear view of modern home with pool",
+    "beds": 3,
+    "baths": 8,
+    "title": "Bahran",
+    "priceInCents": 190000,
+    "formattedPrice": "$900.00",
+    "reviewCount": 34,
+    "rating": 1,
+    "type": "product"
+  },
+  {
+    "id": 932412,
+    "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "imageAlt": "Rear view of modern home with pool",
+    "beds": 3,
+    "baths": 5,
+    "title": "Puma Stores",
+    "priceInCents": 190000,
+    "formattedPrice": "$2,200.00",
+    "reviewCount": 34,
+    "rating": 4,
+    "type": "service"
+  },
+  {
+    "id": 20052,
+    "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "imageAlt": "Rear view of modern home with pool",
+    "beds": 3,
+    "baths": 6,
+    "title": "Brightstone interiors",
+    "priceInCents": 190000,
+    "formattedPrice": "$1,000.00",
+    "reviewCount": 34,
+    "rating": 2,
+    "type": "service"
+  },
+  {
+    "id": 41257,
+    "imageUrl": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "imageAlt": "Rear view of modern beachline with pool",
+    "beds": 4,
+    "baths": 3,
+    "title": "Dawg Aluminium",
+    "priceInCents": 190000,
+    "formattedPrice": "$2,000.00",
+    "reviewCount": 34,
+    "rating": 5,
+    "type": "service"
+  }
+]
